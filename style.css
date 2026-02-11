@@ -210,7 +210,7 @@ transform: translateY(-5px);
 box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
 }
 .product-image {
-height: 250px;
+height: 400px;
 background-color: #eee;
 }
 .product-info {
